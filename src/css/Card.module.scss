@@ -1,0 +1,33 @@
+
+
+.infocard {
+    flex-direction: column;
+    display: flex;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    padding: 0 5%;
+    margin: 0;
+}
+
+.media {
+    height: 250px;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.title {
+    padding: 0 16px;
+}
+
+.cardActions {
+    display: flex;
+    padding: 0 16px 8px ;
+    justify-content: space-between;
+}
